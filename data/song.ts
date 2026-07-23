@@ -36,10 +36,5 @@ export const songs: Song[] = [
     artist: "Unknown",
     file: require("../assets/song/song5.mp3"),
   },
-  {
-    id: "6",
-    title: "finding her",
-    artist: "Kushagra ",
-    file: require("../assets/song/song6.mp3"),
-  },
+
 ];
